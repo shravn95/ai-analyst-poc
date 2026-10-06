@@ -1,0 +1,5 @@
+router:      {primary: "nvidia/nemotron-3-super-120b-a12b", fallback: [], temp: 0}
+planner:     {primary: "nvidia/nemotron-3-super-120b-a12b", fallback: [], temp: 0.2}
+sql_gen:     {primary: "nvidia/nemotron-3-super-120b-a12b", fallback: [], temp: 0}
+verifier:    {primary: "nvidia/nemotron-3-super-120b-a12b", fallback: [], temp: 0}
+synthesizer: {primary: "nvidia/nemotron-3-super-120b-a12b", fallback: [], temp: 0.3}
